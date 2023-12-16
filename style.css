@@ -1,0 +1,54 @@
+body
+{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    padding: 100px;
+}
+
+.btn
+{
+    background-color: rgb(223, 195, 57);
+    border-radius: 10px 5px;
+    padding: 10px;
+}
+
+.format input
+{
+    padding:10px;
+    background-color: rgb(195, 178, 84);
+    color: aliceblue;
+    
+} 
+.format{
+    padding: 10px;
+ 
+}
+.container
+{
+    border: solid 2px ;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgb(67, 95, 95);
+}
+
+.edt
+{
+    border-radius: 10px 5px;
+    background-color: rgb(223, 195, 57);
+    padding: 8px;
+}
+
+.edt2
+{
+    border-radius: 10px 5px;
+    background-color: rgb(223, 195, 57);
+    padding: 8px;
+    
+}
+.table
+{
+    color: aliceblue;
+
+}
